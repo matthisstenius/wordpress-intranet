@@ -9,3 +9,8 @@ config/deploy/*.rb
 src/.htaccess
 src/wp-config.php
 src/wp-content/uploads
+
+#Vagrant
+
+Vagrantfile
+.vagrant/
