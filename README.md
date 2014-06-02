@@ -1,4 +1,12 @@
-Frojd.se-wiki.frojd.se
+Wordpress-intranet
 ======================
 
-Frojd.se-wiki.frojd.se
+Wordpress intreanet made during my two months intership at Fröjd Interactive a web agency in Stockholm.
+
+Work includes:
+
+* Theme development
+* Plugin development
+* JavaScript
+* HTML
+* CSS
