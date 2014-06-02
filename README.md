@@ -1,7 +1,7 @@
 Wordpress-intranet
 ======================
 
-Wordpress intreanet made during my two months intership at Fröjd Interactive a web agency in Stockholm.
+An intranet made with Wordpress during my two months internship at Fröjd Interactive, a web agency in Stockholm.
 
 Work includes:
 
